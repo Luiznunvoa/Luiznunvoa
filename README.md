@@ -1,6 +1,6 @@
 # About Me ⊹ ˖
 <h2>Hello there!</h2>
- <p>My name is Luiz, and I'm a 19-year-old junior developer from Brazil. I graduated as a computer technician from the Brazilian, Instituto Federal do Rio de Janeiro in 2022, and, since then, I've been studying Information Systems at the Universidade Federal Fluminense. Right now, I'm working at the Junior Enterprise INjunior, in Web Development projects.</p>
+ <p>My name is Luiz, and I'm a 19-year-old junior developer from Brazil. I graduated as a computer technician from the Brazilian, Instituto Federal do Rio de Janeiro in 2022, and, since then, I've been studying Information Systems at Universidade Federal Fluminense. Right now, I'm working at the Junior Enterprise INjunior, in Web Development projects.</p>
  
  <p>At this time, I'm interested in learning more about Web Infrastructure, UI Programming and Game Development, but I'm always open to learning new things.</p>
 
