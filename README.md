@@ -1,6 +1,6 @@
 # About Me ⊹ ˖
 <h2>Hello there!</h2>
- <p>My name is Luiz, and I'm a 19-year-old junior developer from Brazil. I graduated as a computer technician from the Brazilian, Instituto Federal do Rio de Janeiro in 2022, and, since then, I've been studying Information Systems at Universidade Federal Fluminense. Right now, I'm working at the Junior Enterprise INjunior, in Web Development projects.</p>
+ <p>My name is Luiz, and I'm a developer from Brazil. I graduated as a computer technician from the Brazilian, Instituto Federal do Rio de Janeiro in 2022, and, since then, I've been studying Information Systems at Universidade Federal Fluminense. Right now, I'm working at the Junior Enterprise INjunior, in Web Development projects.</p>
  
  <p>At this time, I'm interested in learning more about Web Infrastructure, UI Programming and Game Development, but I'm always open to learning new things.</p>
 
@@ -32,20 +32,9 @@
 ###
 **My Activity 🔥:** 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Luiznunvoa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Luiznunvoa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
 ###
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Luiznunvoa&bg_color=000000&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-**Linkedin: :computer::**
-
-<div align="left">
-  <img href="https://www.linkedin.com/in/luiz-gabriel-moraes-pinheiro-b99442254" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-</div>
 
 *You only really understand what you can build.*
 
