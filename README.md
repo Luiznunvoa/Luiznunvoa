@@ -4,7 +4,7 @@
 
 - 🎓 Graduated Computer Technician in IFRJ
 
-- :telescope: Information Sistems student at UFF
+- :telescope: Information Systems Student at UFF
   
 - 👨‍💻 Currently working with the Junior Enterprise [In Junior](https://github.com/IN-Junior-UFF) in web developing projects
 
